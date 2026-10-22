@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e508f7f5.css",
+    "main.js": "/static/js/main.c931c546.js",
+    "static/media/voldemort.png": "/static/media/voldemort.b00a48d23fa28575a673.png",
+    "static/media/harrypotter.png": "/static/media/harrypotter.6f704b7b70b205294ea6.png",
+    "index.html": "/index.html",
+    "main.e508f7f5.css.map": "/static/css/main.e508f7f5.css.map",
+    "main.c931c546.js.map": "/static/js/main.c931c546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e508f7f5.css",
+    "static/js/main.c931c546.js"
+  ]
+}
